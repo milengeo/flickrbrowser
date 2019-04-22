@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Flickr browser</string>
+    <string name="search_term">Search term</string>
+    <string name="cancel">Cancel</string>
+    <string name="okay">Okay</string>
+    <string name="sorry">Sorry</string>
+    <string name="term_too_short">Search term is too short</string>
+    <string name="error_connecting">Error connecting to</string>
+    <string name="searching_please_wait">Searching...Please wait!</string>
+    <string name="loading"> Loading ...</string>
+    <string name="nothing_is_found">Nothing is found</string>
+</resources>
