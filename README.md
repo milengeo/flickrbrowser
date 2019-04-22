@@ -1,5 +1,5 @@
 # Flickr Browser
-Browse Flick images with search terms
+Browse Flickr images with search terms
 
 # Abstract
 This Android Studio project implements an app that uses the Flickr image search API
